@@ -5,7 +5,7 @@ import Destination from './components/Destination';
 import TourDetails from './components/TourDetails';
 import Footer from './components/Footer';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
-import './index.css';
+// import './index.css';
 
 function App() {
   return (
