@@ -12,7 +12,7 @@ function Destination() {
         {/* Filters */}
         <div className="flex flex-col sm:flex-row justify-center gap-4 mb-12">
           <select className="px-4 py-2 rounded-lg border border-gray-300 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent bg-white shadow-sm">
-            <option>Continent</option>
+            <option> @micJ-Continent</option>
             <option>Asia</option>
             <option>Europe</option>
             <option>Africa</option>
